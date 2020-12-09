@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="58066" started-at="2020-12-03T13:31:49Z" finished-at="2020-12-03T13:32:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="58066" started-at="2020-12-03T13:31:49Z" finished-at="2020-12-03T13:32:47Z">
+      <class name="testexcutation.Final_test">
+        <test-method status="PASS" signature="setProps()[pri:0, instance:testexcutation.Final_test@100fc185]" name="setProps" is-config="true" duration-ms="17287" started-at="2020-12-03T19:01:49Z" finished-at="2020-12-03T19:02:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setProps -->
+        <test-method status="PASS" signature="runLogin()[pri:0, instance:testexcutation.Final_test@100fc185]" name="runLogin" duration-ms="6059" started-at="2020-12-03T19:02:06Z" finished-at="2020-12-03T19:02:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runLogin -->
+        <test-method status="PASS" signature="runAlbums()[pri:0, instance:testexcutation.Final_test@100fc185]" name="runAlbums" duration-ms="28171" started-at="2020-12-03T19:02:12Z" finished-at="2020-12-03T19:02:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runAlbums -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testexcutation.Final_test@100fc185]" name="closeBrowser" is-config="true" duration-ms="6531" started-at="2020-12-03T19:02:40Z" finished-at="2020-12-03T19:02:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testexcutation.Final_test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
